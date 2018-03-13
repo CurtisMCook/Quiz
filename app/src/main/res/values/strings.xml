@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Java Quiz</string>
+    <string name="question1">1. 5 = 5 is the same as 5 == 5?</string>
+    <string name="question3">3. Which of the following are primitive data types:</string>
+    <string name="question5">5. String variables are declared by which of the following:</string>
+    <string name="answerTrue">True</string>
+    <string name="answerFalse">False</string>
+    <string name="results">Results</string>
+    <string name="question2IntA">12</string>
+    <string name="question2IntB">2</string>
+    <string name="question2IntC">-4</string>
+    <string name="question3DataTypeA">int</string>
+    <string name="question3DataTypeB">String</string>
+    <string name="question3DataTypeC">boolean</string>
+    <string name="question3DataTypeD">class</string>
+    <string name="question3DataTypeE">double</string>
+    <string name="question5StringA">String = \"Hello World\"</string>
+    <string name="question5StringB">String = \'Hello World\'</string>
+    <string name="question5StringC">String = Hello World</string>
+</resources>
